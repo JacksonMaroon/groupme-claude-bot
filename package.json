@@ -1,0 +1,8 @@
+{
+  "name": "groupme-claude-bot",
+  "version": "1.0.0",
+  "description": "GroupMe bot powered by Claude AI",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.52.0"
+  }
+}
