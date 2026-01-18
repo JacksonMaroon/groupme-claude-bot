@@ -2,6 +2,8 @@
 
 A serverless GroupMe chatbot powered by Claude AI (Haiku 4.5). Responds to messages in group chats with a customizable personality.
 
+![Jackson's Frien](public/jacksons-friend.png)
+
 ## Features
 
 - **AI-Powered Responses** - Uses Claude Haiku 4.5 for fast, cheap responses
